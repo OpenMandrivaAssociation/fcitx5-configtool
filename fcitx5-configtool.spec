@@ -33,6 +33,7 @@ BuildRequires:	cmake(KF6WindowSystem)
 BuildRequires:	cmake(PlasmaQuick)
 BuildRequires:	cmake(XKBCommon)
 BuildRequires:	pkgconfig(xkeyboard-config)
+BuildRequires:	pkgconfig(xkbfile)
 BuildRequires:	pkgconfig(iso-codes)
 BuildSystem:	cmake
 BuildOption:	-DKDE_INSTALL_USE_QT_SYS_PATHS:BOOL=ON
