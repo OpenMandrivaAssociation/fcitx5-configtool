@@ -1,6 +1,6 @@
 Name:		fcitx5-configtool
 Version:	5.1.8
-Release:	1
+Release:	2
 Source0:	https://github.com/fcitx/fcitx5-configtool/archive/%{version}/%{name}-%{version}.tar.gz
 Summary:	Configuration tool for FCITX based input methods
 URL:		https://github.com/fcitx/fcitx5-configtool
